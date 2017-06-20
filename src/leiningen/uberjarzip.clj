@@ -1,4 +1,4 @@
-(ns uberjarzip.core
+(ns leiningen.uberjarzip
   (:require [clojure.java.io :as io]
             [leiningen.core.main :as main :refer [info]]
             [clojure.string :as string])
